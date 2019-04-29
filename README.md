@@ -1,4 +1,5 @@
-**Project Overview**
+**Project Overview**  
+  
 The projct aims the goal of presenting interesting findings to the Mayor of Chicago. This stage is about using Tableau software to find supportive and explore data then creating visualizations and analyses base on findings. 
   
   
