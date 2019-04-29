@@ -9,7 +9,7 @@ Speed camera violations dataset is about volume of violations that have occurred
 Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children. The children's safety zone and automated speed enforcement program which uses enhanced signage and automated speed cameras to identify and ticket motorists who are breaking the law by exceeding the speed limits. The registered owner of the speeding vehicle will be issued the speeding ticket. This dataset not only includes traffic crashed caused by speeding violations but also many other contributory causes. Filter on contributory causes is used when creating visualizations to just focusing on speeding relevant crashes. (https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html)
   
 ## **Dataset visualization and analysis**  
-Visualizations used in the project are from my graphic project uploaded in tableau public gallery and can be found [here.](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
+Visualizations used in this project which are created by Jui-Chuan Ma and uploaded in tableau public gallery that can be found [here.](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
   
 ### Finding 1  
   
