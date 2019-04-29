@@ -15,10 +15,11 @@ Chicago experiences roughly 3,000 crashes annually between motor vehicles and pe
 In the Figure 1, we can see that the number of camera speed violations has a decreasing trend in the monthly speed violations graphic. However, Figure 2 shows that the number of crashes caused by exceeding authorized speed limit and safe speed for conditions has an increasing trend. This is an interesting finding.  
 (Figure 1, Monthly speed violations)
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
-  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
   
 (Figure 2, Monthly crashes related to speed violations)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
   
   ### Finding 2  
   
@@ -26,22 +27,24 @@ Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeare
 
 (Figure 3, Top 10 violations by street)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations.png)  
-  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
   
   
 (Figure 4, Top 10 crashes by street)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes.png)  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
   
   ### Finding 3  
   
 It is not suprised that both speed violations and traffic crashes reached their high peak on fridays as Figure 5 and 6. Interestingly, both of them have relatively lower numbers on weekends. It may be one of the reasons that we only focus on traffic crashed caused by speeding. 
 (Figure 5, Weekday violations)
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations.png)  
-  
-  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
+    
   
 (Figure 6, Weekday crashes)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes.png)  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
   
   
   
