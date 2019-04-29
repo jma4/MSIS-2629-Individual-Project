@@ -10,6 +10,8 @@ Chicago experiences roughly 3,000 crashes annually between motor vehicles and pe
   
 ## **Dataset visualization and analysis**  
   
+### Finding 1  
+  
 In the Figure 1, we can see that the number of camera speed violations has a decreasing trend in the monthly speed violations graphic. However, Figure 2 shows that the number of crashes caused by exceeding authorized speed limit and safe speed for conditions has an increasing trend. This is an interesting finding.  
 (Figure 1, Monthly speed violations)
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
@@ -18,6 +20,7 @@ In the Figure 1, we can see that the number of camera speed violations has a dec
 (Figure 2, Monthly crashes related to speed violations)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
   
+  ### Finding 2  
   
 Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeared in both graphics. Although it showes not very siginificant positive relations. We could still say that the more violations happen the more likely crashes could happen.  
 
@@ -29,7 +32,7 @@ Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeare
 (Figure 4, Top 10 crashes by street)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes.png)  
   
-  
+  ### Finding 3  
   
 It is not suprised that both speed violations and traffic crashes reached their high peak on fridays as Figure 5 and 6. Interestingly, both of them have relatively lower numbers on weekends. It may be one of the reasons that we only focus on traffic crashed caused by speeding. 
 (Figure 5, Weekday violations)
