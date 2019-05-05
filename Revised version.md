@@ -15,7 +15,7 @@ Visualizations used in this case which are created by Jui-Chuan Ma and uploaded 
 To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. It does not mean that speed cameras have negative influence on reducing traffic crashes. Combining these two variables together in figure 3, the amount of crashes show a low and steady line comparing to the amount of speed camera violations.   
   
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
-  (Figure 1, [Monthly speed violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes))
+  (Figure 1, [Monthly speed camera violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes))
   
     
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
@@ -25,14 +25,14 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
   
 Then we move to figure 4 and 5, focusing on locations of the two datasets. Two streets, Western, Cicero and Kedzie Avenue, appear in both vsualizations. In figure 4, Western Avenue is considered by adding S Western and N Western together. Three of them show higher numbers in both graphics. Other than that, it seems that no other streets match in the top 10 violations and speed crashes. Although it shows not very siginificant positive relations between street of violations and crashes. Higher number of violations still come with higher number of crashes.  
 
-(Figure 4, Top 10 violations by street)  
+    
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20v2.png)  
-  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)
+  (Figure 4, [Top 10 violations by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))
   
   
-(Figure 5, Top 10 crashes by street)  
+    
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes%20v2.png)  
-  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)  
+  (Figure 5, [Top 10 crashes by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   ### Finding 3  
   
