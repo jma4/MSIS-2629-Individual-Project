@@ -11,7 +11,7 @@ The projct aims the goal of presenting relationships between Chicago's speed cam
 Visualizations used in this case which are created by Jui-Chuan Ma and uploaded in tableau public gallery that can be found [here.](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes) Facts and findings are presented follwed by corresponding graphics.
   
 **Facts and Findings - Overtime**  
-To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. It does not mean that speed cameras have negative influence on reducing traffic crashes. Combining these two variables together in figure 3, the amount of crashes show a low and steady line comparing to the amount of speed camera violations.   
+To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. It does not mean that speed cameras have negative influence on reducing traffic crashes. Combining these two variables together in figure 3, the amount of crashes shown as yello line has a low and steady line comparing to the amount of speed camera violations shown as blue line.   
   
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
   (Figure 1, [Monthly speed camera violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))
