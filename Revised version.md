@@ -23,15 +23,14 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
   
   ### Finding 2  
   
-Then we move to figure 4 and 5, focusing on locations of the two datasets. Two streets, Western and Cicero Avenue, appear in both vsualizations. 
-Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeared in both graphics. Although it showes not very siginificant positive relations. We could still say that the more violations happen the more likely crashes could happen.  
+Then we move to figure 4 and 5, focusing on locations of the two datasets. Two streets, Western, Cicero and Kedzie Avenue, appear in both vsualizations. In figure 4, Western Avenue is considered by adding S Western and N Western together. Three of them show higher numbers in both graphics. Other than that, it seems that no other streets match in the top 10 violations and speed crashes. Although it shows not very siginificant positive relations between street of violations and crashes. Higher number of violations still come with higher number of crashes.  
 
-(Figure 3, Top 10 violations by street)  
+(Figure 4, Top 10 violations by street)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20v2.png)  
   (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)
   
   
-(Figure 4, Top 10 crashes by street)  
+(Figure 5, Top 10 crashes by street)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes%20v2.png)  
   (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)  
   
