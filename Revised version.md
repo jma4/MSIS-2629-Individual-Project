@@ -47,4 +47,6 @@ People may think that most of speed violations and crashes happen on Saturdays a
   (Figure 6, [Weekday crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))   
   
 ## **Summary**  
+  
+The speed relevant traffic crashes show a steady trend and appear not to increase in the near future. To decrease speeding crashes, police department could increase number of patrol officers on streets having higher number of violations and crashes and on Fridays. 
 
