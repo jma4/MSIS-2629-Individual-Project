@@ -1,6 +1,6 @@
 ## **Project Overview**  
   
-The projct aims the goal of presenting relationships between Chicago's speed camera violation and traffic crashes to the Mayor of Chicago. Using Tableau software to explore supportive data, create visualizations and construct analyses base on findings. 
+The projct aims the goal of presenting relationships between Chicago's speed camera violation and traffic crashes to the Mayor of Chicago. Using Tableau software to explore supportive data, create visualizations and construct analyses base on findings. Through this case, I would like to present if speed cameras have impact on reducing speed relevant traffic crashes. 
   
   
 ## **Dataset Overview**  
@@ -12,7 +12,7 @@ Visualizations used in this case which are created by Jui-Chuan Ma and uploaded 
   
 ### Finding 1  
   
-In the Figure 1, we can see that the number of camera speed violations has a decreasing trend in the monthly speed violations graphic. However, Figure 2 shows that the number of crashes caused by exceeding authorized speed limit and safe speed for conditions has an increasing trend. This is an interesting finding.  
+To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. However, Figure 2 shows that the number of crashes caused by exceeding authorized speed limit and safe speed for conditions has an increasing trend. This is an interesting finding.  
 (Figure 1, Monthly speed violations)
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
   (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
