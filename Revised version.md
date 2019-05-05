@@ -40,12 +40,12 @@ Then we move to figure 4 and 5, focusing on locations of the two datasets. Two s
   
 People may think that most of speed violations and crashes happen on Saturdays and Sundays. It is not suprised that both speed violations and traffic crashes reached their high peak on fridays as Figure 5 and 6. Interestingly, both of them have relatively lower numbers on weekends. It may be one of the reasons that we only focus on traffic crashed caused by speeding. 
   
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations%20v2.png)  
  (Figure 5, [Weekday violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
     
   
   
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes%20v2.png)  
   (Figure 6, [Weekday crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   
