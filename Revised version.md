@@ -12,7 +12,7 @@ Visualizations used in this case which are created by Jui-Chuan Ma and uploaded 
   
 ### Finding 1  
   
-To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. However, Figure 2 shows that the number of crashes caused by exceeding authorized speed limit and safe speed for conditions has an increasing trend. This is an interesting finding.  
+To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. It does not mean that speed cameras have negative influence on reducing traffic crashes. Combining these two variables together in figure 3, the amount of crashes show a low and steady line comparing to the amount of speed camera violations.   
 (Figure 1, Monthly speed violations)
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
   (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
@@ -23,6 +23,7 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
   
   ### Finding 2  
   
+Then we move to figure 4 and 5, focusing on locations of the two datasets.
 Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeared in both graphics. Although it showes not very siginificant positive relations. We could still say that the more violations happen the more likely crashes could happen.  
 
 (Figure 3, Top 10 violations by street)  
