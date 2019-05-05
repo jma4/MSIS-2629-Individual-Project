@@ -36,7 +36,7 @@ Then we move to figure 4 and 5, focusing on locations of the two datasets. Two s
   (Figure 5, [Top 10 crashes by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   **Facts and Findings - Weekdays**    
-People may think that most of speed violations and crashes happen on Saturdays and Sundays. It is not suprised that both speed violations and traffic crashes reached their high peak on fridays as Figure 5 and 6. Interestingly, both of them have relatively lower numbers on weekends. It may be one of the reasons that we only focus on traffic crashed caused by speeding. 
+People may think that most of speed violations and crashes happen on Saturdays and Sundays. Suprisingly, the high peak of speed camera violations and speed relevant traffic crashes both locate on Fridays as Figure 5 and 6 shows. It may be one of the reasons that we only focus on traffic crashed caused by speeding. Most of crashes in weekends might be related to other causes. 
   
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations%20v2.png)  
  (Figure 5, [Weekday violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
@@ -44,7 +44,7 @@ People may think that most of speed violations and crashes happen on Saturdays a
   
   
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes%20v2.png)  
-  (Figure 6, [Weekday crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
+  (Figure 6, [Weekday crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))   
   
-  
-  
+## **Summary**  
+
