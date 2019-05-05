@@ -1,6 +1,6 @@
 ## **Project Overview**  
   
-The projct aims the goal of presenting interesting findings to the Mayor of Chicago. This stage is about exploring supportive data and using Tableau software to create visualizations and analyses base on findings. 
+The projct aims the goal of presenting relationships between Chicago's speed camera violation and traffic crashes to the Mayor of Chicago. Tableau software is used to explore supportive data, create visualizations and construct analyses base on findings. 
   
   
 ## **Dataset Overview**  
