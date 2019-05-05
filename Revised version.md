@@ -26,13 +26,13 @@ In the Figure 1, we can see that the number of camera speed violations has a dec
 Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeared in both graphics. Although it showes not very siginificant positive relations. We could still say that the more violations happen the more likely crashes could happen.  
 
 (Figure 3, Top 10 violations by street)  
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations.png)  
-  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20v2.png)  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)
   
   
 (Figure 4, Top 10 crashes by street)  
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes.png)  
-  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes%20v2.png)  
+  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes)  
   
   ### Finding 3  
   
