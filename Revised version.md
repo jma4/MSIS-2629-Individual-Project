@@ -17,9 +17,9 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
   (Figure 1, [Monthly speed violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes))
   
-(Figure 2, Monthly crashes related to speed violations)  
+    
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
-  (https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)  
+  (Figure 2, [Monthly speed relevant crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes))  
   
   ### Finding 2  
   
