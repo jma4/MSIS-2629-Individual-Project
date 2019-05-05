@@ -23,7 +23,7 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
   
   ### Finding 2  
   
-Then we move to figure 4 and 5, focusing on locations of the two datasets.
+Then we move to figure 4 and 5, focusing on locations of the two datasets. Two streets, Western and Cicero Avenue, appear in both vsualizations. 
 Comparing figure 3 and Figure 4, it can be seen that there are 4 streets appeared in both graphics. Although it showes not very siginificant positive relations. We could still say that the more violations happen the more likely crashes could happen.  
 
 (Figure 3, Top 10 violations by street)  
