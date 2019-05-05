@@ -15,7 +15,7 @@ Visualizations used in this case which are created by Jui-Chuan Ma and uploaded 
 To start off, we see an interesting phenomena that a decreasing trend in the monthly speed camera violations but an upward trend in speed relevant traffic crashes as figure 1 and 2 shows. It does not mean that speed cameras have negative influence on reducing traffic crashes. Combining these two variables together in figure 3, the amount of crashes show a low and steady line comparing to the amount of speed camera violations.   
   
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations.png)  
-  (Figure 1, [Monthly speed violations])(https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes)
+  (Figure 1, [Monthly speed violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard?publish=yes))
   
 (Figure 2, Monthly crashes related to speed violations)  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
