@@ -17,33 +17,33 @@ To start off, we see an interesting phenomena that a decreasing trend in the mon
   (Figure 1, [Monthly speed camera violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))
   
     
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20crashes%20revised.png)  
   (Figure 2, [Monthly speed relevant crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20speed%20violations%20and%20crashes.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Monthly%20violations%20and%20crashes%20revised.png)  
 (Figure 3, [Monthly speed camera violations and crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   **Facts and Findings - Location**    
 Then we move to figure 4 and 5, focusing on locations of the two datasets. Two streets, Western, Cicero and Kedzie Avenue, appear in both vsualizations. In figure 4, Western Avenue is considered by adding S Western and N Western together. Three of them show higher numbers in both graphics. Other than that, it seems that no other streets match in the top 10 violations and speed crashes. Although it shows not very siginificant positive relations between street of violations and crashes. Higher number of violations still come with higher number of crashes.  
 
     
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20v2.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20revised.png)  
   (Figure 4, [Top 10 violations by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))
   
   
     
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes%20v2.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20revised.png)  
   (Figure 5, [Top 10 crashes by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   **Facts and Findings - Weekdays**    
 People may think that most of speed violations and crashes happen on Saturdays and Sundays. Suprisingly, the high peak of speed camera violations and speed relevant traffic crashes both locate on Fridays as Figure 5 and 6 shows. It may be one of the reasons that we only focus on traffic crashed caused by speeding. Most of crashes in weekends might be related to other causes. 
   
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations%20v2.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20violations%20revised.png)  
  (Figure 5, [Weekday violations](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
     
   
   
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes%20v2.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Weekday%20crashes%20revised.png)  
   (Figure 6, [Weekday crashes](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))   
   
   
