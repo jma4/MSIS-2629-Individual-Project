@@ -54,6 +54,8 @@ People may think that most of speeding violations and crashes happen on Saturday
 In the traffic crashes dataset of data exploration stage and first version, I filtered out speeding relevant crashes using two variables, (1)Exceeding authorized speed limit and (2) Exceeding safe speed to avoid crash. To compare with speed camera violations dataset, using crashes data that are caused by exceeding authorized speed limit is more reasonable. Other speeding relevant causes can not be catched by speed cameras. Then I use only one filter in the final version to show more accurate and related data to build visualizations and analyses.
   
 ### **Visualizations**  
+The visualizations from the first version can ve found [here.](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagocameraspeedviolation-crashes/Dashboard)
+  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/revision%20monthly%20violations%20and%20crashes.PNG)  
     
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/revision%20top%2010%20violations%20and%20crashes.PNG)
