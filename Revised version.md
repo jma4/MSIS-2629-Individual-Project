@@ -32,7 +32,7 @@ Then we move to figure 4 and 5, focusing on locations of the two datasets. Two s
   
   
     
-![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20violations%20revised.png)  
+![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/Top%2010%20crashes%20revised.png)  
   (Figure 5, [Top 10 crashes by street](https://public.tableau.com/profile/jui.chuan.ma#!/vizhome/Chicagospeedcameraviolation-crashesRevised/Dashboard?publish=yes))  
   
   **Facts and Findings - Weekdays**    
