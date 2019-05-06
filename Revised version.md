@@ -48,12 +48,14 @@ People may think that most of speed violations and crashes happen on Saturdays a
   
   
   
-## **Revision History Visualizations**  
+## **Revision History**  
+  
+### **Data**  
   
   
-### Finding 1  
+### **Visualizations**  
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/revision%20monthly%20violations%20and%20crashes.PNG)  
-### Finding2  
+    
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/revision%20top%2010%20violations%20and%20crashes.PNG)
-### Finding 3  
+    
 ![alt text](https://github.com/jma4/MSIS-2629-Individual-Project/blob/master/image/revision%20weeday%20violations%20and%20crashes.PNG)
